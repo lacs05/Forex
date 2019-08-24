@@ -1,0 +1,147 @@
+0	12:47:38.375	Custom indicator Personales\ssl-channel-chart-alert-indicator EURGBP,Daily: loaded successfully
+0	12:47:38.375	Custom indicator Personales\Trend direction & force index - smoothed 4 EURGBP,Daily: loaded successfully
+0	12:47:38.407	ssl-channel-chart-alert-indicator EURGBP,Daily: initialized
+0	12:47:38.422	Trend direction & force index - smoothed 4 EURGBP,Daily: initialized
+0	12:47:38.469	Custom indicator Personales\ssl-channel-chart-alert-indicator GBPCHF,Daily: loaded successfully
+0	12:47:38.485	Custom indicator Personales\Trend direction & force index - smoothed 4 GBPCHF,Daily: loaded successfully
+0	12:47:38.516	ssl-channel-chart-alert-indicator GBPCHF,Daily: initialized
+0	12:47:38.547	Trend direction & force index - smoothed 4 GBPCHF,Daily: initialized
+0	12:47:38.578	Custom indicator Personales\ssl-channel-chart-alert-indicator AUDNZD,Daily: loaded successfully
+0	12:47:38.610	ssl-channel-chart-alert-indicator AUDNZD,Daily: initialized
+0	12:47:38.641	Custom indicator Personales\VI\Elders_Safe_Zone_MTF GBPCHF,Daily: loaded successfully
+0	12:47:38.641	Custom indicator Favoritos\SSL personalizado GBPCHF,Daily: loaded successfully
+0	12:47:38.657	Custom indicator Personales\VI\elderss market thermometer 1.01 GBPCHF,Daily: loaded successfully
+0	12:47:38.672	Elders_Safe_Zone_MTF GBPCHF,Daily: Alert: The Bigger TF Source selected for this Time Frame cannot be calculated
+0	12:47:38.672	Elders_Safe_Zone_MTF GBPCHF,Daily: initialized
+0	12:47:38.688	SSL personalizado GBPCHF,Daily: initialized
+0	12:47:38.688	elderss market thermometer 1.01 GBPCHF,Daily: initialized
+0	12:47:38.719	Custom indicator Favoritos\SSL personalizado EURAUD,Daily: loaded successfully
+0	12:47:38.735	Custom indicator Favoritos\ASH personalizado EURAUD,Daily: loaded successfully
+0	12:47:38.750	SSL personalizado EURAUD,Daily: initialized
+0	12:47:38.766	ASH personalizado EURAUD,Daily: initialized
+0	12:47:38.860	Custom indicator Favoritos\SSL personalizado GBPUSD,Daily: loaded successfully
+0	12:47:38.875	Custom indicator Favoritos\ASH personalizado GBPUSD,Daily: loaded successfully
+0	12:47:38.891	SSL personalizado GBPUSD,Daily: initialized
+0	12:47:38.907	ASH personalizado GBPUSD,Daily: initialized
+0	15:20:40.475	ssl-channel-chart-alert-indicator EURGBP,Daily: uninit reason 9
+0	15:20:40.475	Trend direction & force index - smoothed 4 EURGBP,Daily: uninit reason 9
+0	15:20:40.475	ssl-channel-chart-alert-indicator GBPCHF,Daily: uninit reason 9
+0	15:20:40.475	Trend direction & force index - smoothed 4 GBPCHF,Daily: uninit reason 9
+0	15:20:40.475	ssl-channel-chart-alert-indicator AUDNZD,Daily: uninit reason 9
+0	15:20:40.476	Elders_Safe_Zone_MTF GBPCHF,Daily: uninit reason 9
+0	15:20:40.476	SSL personalizado GBPCHF,Daily: uninit reason 9
+0	15:20:40.476	elderss market thermometer 1.01 GBPCHF,Daily: uninit reason 9
+0	15:20:40.476	SSL personalizado EURAUD,Daily: uninit reason 9
+0	15:20:40.476	ASH personalizado EURAUD,Daily: uninit reason 9
+0	15:20:40.476	SSL personalizado GBPUSD,Daily: uninit reason 9
+0	15:20:40.476	ASH personalizado GBPUSD,Daily: uninit reason 9
+0	15:20:40.603	Custom indicator ssl-channel-chart-alert-indicator EURGBP,Daily: removed
+0	15:20:40.605	Custom indicator Trend direction & force index - smoothed 4 EURGBP,Daily: removed
+0	15:20:40.609	Custom indicator ssl-channel-chart-alert-indicator GBPCHF,Daily: removed
+0	15:20:40.611	Custom indicator Trend direction & force index - smoothed 4 GBPCHF,Daily: removed
+0	15:20:40.619	Custom indicator ssl-channel-chart-alert-indicator AUDNZD,Daily: removed
+0	15:20:40.624	Custom indicator Elders_Safe_Zone_MTF GBPCHF,Daily: removed
+0	15:20:40.626	Custom indicator SSL personalizado GBPCHF,Daily: removed
+0	15:20:40.627	Custom indicator elderss market thermometer 1.01 GBPCHF,Daily: removed
+0	15:20:40.632	Custom indicator SSL personalizado EURAUD,Daily: removed
+0	15:20:40.633	Custom indicator ASH personalizado EURAUD,Daily: removed
+0	15:20:40.644	Custom indicator SSL personalizado GBPUSD,Daily: removed
+0	15:20:40.646	Custom indicator ASH personalizado GBPUSD,Daily: removed
+0	15:28:42.267	Custom indicator Personales\ssl-channel-chart-alert-indicator EURGBP,Daily: loaded successfully
+0	15:28:42.278	Custom indicator Personales\Trend direction & force index - smoothed 4 EURGBP,Daily: loaded successfully
+0	15:28:42.292	ssl-channel-chart-alert-indicator EURGBP,Daily: initialized
+0	15:28:42.315	Trend direction & force index - smoothed 4 EURGBP,Daily: initialized
+0	15:28:42.353	Custom indicator Personales\ssl-channel-chart-alert-indicator GBPCHF,Daily: loaded successfully
+0	15:28:42.365	Custom indicator Personales\Trend direction & force index - smoothed 4 GBPCHF,Daily: loaded successfully
+0	15:28:42.379	ssl-channel-chart-alert-indicator GBPCHF,Daily: initialized
+0	15:28:42.401	Trend direction & force index - smoothed 4 GBPCHF,Daily: initialized
+0	15:28:42.433	Custom indicator Personales\ssl-channel-chart-alert-indicator AUDNZD,Daily: loaded successfully
+0	15:28:42.446	ssl-channel-chart-alert-indicator AUDNZD,Daily: initialized
+0	15:28:42.474	Custom indicator Personales\VI\Elders_Safe_Zone_MTF GBPCHF,Daily: loaded successfully
+0	15:28:42.484	Custom indicator Favoritos\SSL personalizado GBPCHF,Daily: loaded successfully
+0	15:28:42.494	Custom indicator Personales\VI\elderss market thermometer 1.01 GBPCHF,Daily: loaded successfully
+0	15:28:42.508	Elders_Safe_Zone_MTF GBPCHF,Daily: Alert: The Bigger TF Source selected for this Time Frame cannot be calculated
+0	15:28:42.508	Elders_Safe_Zone_MTF GBPCHF,Daily: initialized
+0	15:28:42.520	SSL personalizado GBPCHF,Daily: initialized
+0	15:28:42.530	elderss market thermometer 1.01 GBPCHF,Daily: initialized
+0	15:28:42.560	Custom indicator Favoritos\SSL personalizado EURAUD,Daily: loaded successfully
+0	15:28:42.569	Custom indicator Favoritos\ASH personalizado EURAUD,Daily: loaded successfully
+0	15:28:42.583	SSL personalizado EURAUD,Daily: initialized
+0	15:28:42.595	ASH personalizado EURAUD,Daily: initialized
+0	15:28:42.660	Custom indicator Favoritos\SSL personalizado GBPUSD,Daily: loaded successfully
+0	15:28:42.669	Custom indicator Favoritos\ASH personalizado GBPUSD,Daily: loaded successfully
+0	15:28:42.683	SSL personalizado GBPUSD,Daily: initialized
+0	15:28:42.695	ASH personalizado GBPUSD,Daily: initialized
+0	15:29:03.369	ssl-channel-chart-alert-indicator EURGBP,Daily: uninit reason 9
+0	15:29:03.369	Trend direction & force index - smoothed 4 EURGBP,Daily: uninit reason 9
+0	15:29:03.369	ssl-channel-chart-alert-indicator GBPCHF,Daily: uninit reason 9
+0	15:29:03.369	Trend direction & force index - smoothed 4 GBPCHF,Daily: uninit reason 9
+0	15:29:03.369	ssl-channel-chart-alert-indicator AUDNZD,Daily: uninit reason 9
+0	15:29:03.369	Elders_Safe_Zone_MTF GBPCHF,Daily: uninit reason 9
+0	15:29:03.369	SSL personalizado GBPCHF,Daily: uninit reason 9
+0	15:29:03.369	elderss market thermometer 1.01 GBPCHF,Daily: uninit reason 9
+0	15:29:03.369	SSL personalizado EURAUD,Daily: uninit reason 9
+0	15:29:03.369	ASH personalizado EURAUD,Daily: uninit reason 9
+0	15:29:03.369	SSL personalizado GBPUSD,Daily: uninit reason 9
+0	15:29:03.369	ASH personalizado GBPUSD,Daily: uninit reason 9
+0	15:29:03.453	Custom indicator ssl-channel-chart-alert-indicator EURGBP,Daily: removed
+0	15:29:03.455	Custom indicator Trend direction & force index - smoothed 4 EURGBP,Daily: removed
+0	15:29:03.459	Custom indicator ssl-channel-chart-alert-indicator GBPCHF,Daily: removed
+0	15:29:03.461	Custom indicator Trend direction & force index - smoothed 4 GBPCHF,Daily: removed
+0	15:29:03.467	Custom indicator ssl-channel-chart-alert-indicator AUDNZD,Daily: removed
+0	15:29:03.471	Custom indicator Elders_Safe_Zone_MTF GBPCHF,Daily: removed
+0	15:29:03.473	Custom indicator SSL personalizado GBPCHF,Daily: removed
+0	15:29:03.474	Custom indicator elderss market thermometer 1.01 GBPCHF,Daily: removed
+0	15:29:03.479	Custom indicator SSL personalizado EURAUD,Daily: removed
+0	15:29:03.481	Custom indicator ASH personalizado EURAUD,Daily: removed
+0	15:29:03.492	Custom indicator SSL personalizado GBPUSD,Daily: removed
+0	15:29:03.494	Custom indicator ASH personalizado GBPUSD,Daily: removed
+0	15:29:08.297	Custom indicator Personales\ssl-channel-chart-alert-indicator EURGBP,Daily: loaded successfully
+0	15:29:08.308	Custom indicator Personales\Trend direction & force index - smoothed 4 EURGBP,Daily: loaded successfully
+0	15:29:08.323	ssl-channel-chart-alert-indicator EURGBP,Daily: initialized
+0	15:29:08.345	Trend direction & force index - smoothed 4 EURGBP,Daily: initialized
+0	15:29:08.382	Custom indicator Personales\ssl-channel-chart-alert-indicator GBPCHF,Daily: loaded successfully
+0	15:29:08.393	Custom indicator Personales\Trend direction & force index - smoothed 4 GBPCHF,Daily: loaded successfully
+0	15:29:08.407	ssl-channel-chart-alert-indicator GBPCHF,Daily: initialized
+0	15:29:08.430	Trend direction & force index - smoothed 4 GBPCHF,Daily: initialized
+0	15:29:08.459	Custom indicator Personales\ssl-channel-chart-alert-indicator AUDNZD,Daily: loaded successfully
+0	15:29:08.472	ssl-channel-chart-alert-indicator AUDNZD,Daily: initialized
+0	15:29:08.500	Custom indicator Personales\VI\Elders_Safe_Zone_MTF GBPCHF,Daily: loaded successfully
+0	15:29:08.510	Custom indicator Favoritos\SSL personalizado GBPCHF,Daily: loaded successfully
+0	15:29:08.519	Custom indicator Personales\VI\elderss market thermometer 1.01 GBPCHF,Daily: loaded successfully
+0	15:29:08.533	Elders_Safe_Zone_MTF GBPCHF,Daily: Alert: The Bigger TF Source selected for this Time Frame cannot be calculated
+0	15:29:08.533	Elders_Safe_Zone_MTF GBPCHF,Daily: initialized
+0	15:29:08.545	SSL personalizado GBPCHF,Daily: initialized
+0	15:29:08.555	elderss market thermometer 1.01 GBPCHF,Daily: initialized
+0	15:29:08.584	Custom indicator Favoritos\SSL personalizado EURAUD,Daily: loaded successfully
+0	15:29:08.593	Custom indicator Favoritos\ASH personalizado EURAUD,Daily: loaded successfully
+0	15:29:08.606	SSL personalizado EURAUD,Daily: initialized
+0	15:29:08.618	ASH personalizado EURAUD,Daily: initialized
+0	15:29:08.690	Custom indicator Favoritos\SSL personalizado GBPUSD,Daily: loaded successfully
+0	15:29:08.704	Custom indicator Favoritos\ASH personalizado GBPUSD,Daily: loaded successfully
+0	15:29:08.727	SSL personalizado GBPUSD,Daily: initialized
+0	15:29:08.743	ASH personalizado GBPUSD,Daily: initialized
+0	15:30:01.722	ssl-channel-chart-alert-indicator EURGBP,Daily: uninit reason 9
+0	15:30:01.722	Trend direction & force index - smoothed 4 EURGBP,Daily: uninit reason 9
+0	15:30:01.722	ssl-channel-chart-alert-indicator GBPCHF,Daily: uninit reason 9
+0	15:30:01.722	Trend direction & force index - smoothed 4 GBPCHF,Daily: uninit reason 9
+0	15:30:01.722	ssl-channel-chart-alert-indicator AUDNZD,Daily: uninit reason 9
+0	15:30:01.722	Elders_Safe_Zone_MTF GBPCHF,Daily: uninit reason 9
+0	15:30:01.722	SSL personalizado GBPCHF,Daily: uninit reason 9
+0	15:30:01.722	elderss market thermometer 1.01 GBPCHF,Daily: uninit reason 9
+0	15:30:01.722	SSL personalizado EURAUD,Daily: uninit reason 9
+0	15:30:01.722	ASH personalizado EURAUD,Daily: uninit reason 9
+0	15:30:01.722	SSL personalizado GBPUSD,Daily: uninit reason 9
+0	15:30:01.722	ASH personalizado GBPUSD,Daily: uninit reason 9
+0	15:30:01.792	Custom indicator ssl-channel-chart-alert-indicator EURGBP,Daily: removed
+0	15:30:01.795	Custom indicator Trend direction & force index - smoothed 4 EURGBP,Daily: removed
+0	15:30:01.800	Custom indicator ssl-channel-chart-alert-indicator GBPCHF,Daily: removed
+0	15:30:01.802	Custom indicator Trend direction & force index - smoothed 4 GBPCHF,Daily: removed
+0	15:30:01.806	Custom indicator ssl-channel-chart-alert-indicator AUDNZD,Daily: removed
+0	15:30:01.811	Custom indicator Elders_Safe_Zone_MTF GBPCHF,Daily: removed
+0	15:30:01.812	Custom indicator SSL personalizado GBPCHF,Daily: removed
+0	15:30:01.814	Custom indicator elderss market thermometer 1.01 GBPCHF,Daily: removed
+0	15:30:01.818	Custom indicator SSL personalizado EURAUD,Daily: removed
+0	15:30:01.820	Custom indicator ASH personalizado EURAUD,Daily: removed
+0	15:30:01.831	Custom indicator SSL personalizado GBPUSD,Daily: removed
+0	15:30:01.833	Custom indicator ASH personalizado GBPUSD,Daily: removed
